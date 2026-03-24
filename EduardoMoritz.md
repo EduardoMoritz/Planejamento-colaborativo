@@ -40,3 +40,7 @@
 1. ~~Criação aba "Reuniões"~~
 2. ~~Função "Reuniões" para que o usuário possa marcar reuniões importantes em seu calendário~~
 
+
+### Notificações: 
+
+1. ~~Função "Notificações" para que o usuário seja informado de suas tarefas pendentes ou reuniões~~
