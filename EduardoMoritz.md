@@ -34,3 +34,9 @@
 
 1. ~~Design do interior do aplicativo~~
 2. ~~Design do ícone do aplicativo~~
+
+### Reuniões:
+
+1. ~~Criação aba "Reuniões"~~
+2. ~~Função "Reuniões" para que o usuário possa marcar reuniões importantes em seu calendário~~
+
