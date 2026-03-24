@@ -23,3 +23,9 @@
 
 1. ~~Criação aba "Minha conta"~~
 2. ~~Função "Minha conta" para o usuário entrar com sua conta google ou etc~~
+
+### Tarefas:
+
+1. ~~Criação aba "Tarefas"~~
+2. ~~Função "Tarefas" para o usuário ver seus afazeres~~
+3. ~~Função "Editar tarefas" para que o usuário possa alterar informações de suas tarefas~~
