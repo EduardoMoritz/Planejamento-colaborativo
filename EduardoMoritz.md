@@ -29,3 +29,8 @@
 1. ~~Criação aba "Tarefas"~~
 2. ~~Função "Tarefas" para o usuário ver seus afazeres~~
 3. ~~Função "Editar tarefas" para que o usuário possa alterar informações de suas tarefas~~
+
+### Design:
+
+1. ~~Design do interior do aplicativo~~
+2. ~~Design do ícone do aplicativo~~
