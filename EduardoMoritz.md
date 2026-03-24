@@ -1,8 +1,10 @@
  # Projeto Colaborativo
 
+## **17/03**
+
   Criação do repositório no git hub
 
-*23/03*
+## **23/03**
 
 ## Tarefas Realizadas
 
@@ -16,3 +18,8 @@
 
 1. ~~Criação aba "Configurações"~~
 2. ~~Função "Configurações" para que o usuário tenha acesso as configurações do aplicativo~~
+
+### Minha conta: 
+
+1. ~~Criação aba "Minha conta"~~
+2. ~~Função "Minha conta" para o usuário entrar com sua conta google ou etc~~
