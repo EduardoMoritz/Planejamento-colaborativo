@@ -55,3 +55,7 @@ EM: Função "Reuniões"
 PA: Criação aba "Agenda"
 
 PA: Função "Agenda"
+
+## 21/03
+
+EM: Função "Notificações"
