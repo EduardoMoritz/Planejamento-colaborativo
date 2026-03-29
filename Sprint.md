@@ -40,6 +40,8 @@ PA: Função "Agenda"
 
 EM: Função "Editar tarefas" 
 
+PA: Função "Bloquear AntiAD"
+
 EM: Design do interior do aplicativo
 
 ## 20/03
