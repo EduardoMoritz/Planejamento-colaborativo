@@ -44,4 +44,6 @@ PA: Função "Bloquear AntiAD"
 
 EM: Design do interior do aplicativo
 
+PA: Criação aba "Atividades em conjunto"
+
 ## 20/03
