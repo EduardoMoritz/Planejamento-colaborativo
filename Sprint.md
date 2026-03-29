@@ -71,3 +71,5 @@ PA: Função "Central de ajuda"
 ## 22/03
 
 PA: Criação aba "Criar modelo"
+
+PA: Função "Criar modelo"
