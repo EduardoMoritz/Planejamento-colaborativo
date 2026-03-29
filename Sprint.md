@@ -52,10 +52,10 @@ EM: Criação aba "Reuniões"
 
 EM: Função "Reuniões" 
 
-PA: Criação aba "Agenda"
-
 PA: Função "Agenda"
 
 ## 21/03
 
 EM: Função "Notificações"
+
+PA: Design do ícone do aplicativo
