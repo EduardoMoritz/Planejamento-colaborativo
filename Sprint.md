@@ -59,3 +59,5 @@ PA: Função "Agenda"
 EM: Função "Notificações"
 
 PA: Design do ícone do aplicativo
+
+PA: Função "Compartilhar"
