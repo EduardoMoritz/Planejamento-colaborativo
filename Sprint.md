@@ -54,3 +54,4 @@ EM: Função "Reuniões"
 
 PA: Criação aba "Agenda"
 
+PA: Função "Agenda"
