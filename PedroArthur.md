@@ -65,8 +65,9 @@
 1. ~~Pode criar modelos prontos e divulgar~~
 2. ~~Pode copiar os modelos prontos pra sua biblioteca e acessar eles~~
 
+## 23/03
 
-
+1. Pequenos ajustes, atualizações e reviews, esperando feedbacks
 
 
 
