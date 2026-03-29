@@ -1,6 +1,6 @@
-### Criação das tarefas 
+## Criação das tarefas 
 
-## *Ordem de prioridade*
+### *Ordem de prioridade*
 
 1. Criação "Tela inicial"
 
@@ -56,7 +56,7 @@
 
 27. Função "Pagamentos" para que o usuário possa conferir dados de pagamento, quando ira vencer etc
 
-28. Função "Anúncios" para que o usuários receba anúncios e a plataforma consiga lucrar em cima
+28. Função "Anúncios" para que os usuários recebam anúncios e a plataforma consiga lucrar em cima
 
 29. Função "Bloquear AntiAD" para que o usuário não utilize ferramentas que bloqueiam anúncios
 
