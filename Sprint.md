@@ -20,6 +20,10 @@ PA: Criação aba "Conta premium"
 
 PA: Função "Conta premium" 
 
+PA: Criação aba "Pagamentos"
+
+PA: Função "Pagamentos" 
+
 ## 19/03
 
 EM: Criação aba "Minha conta"
