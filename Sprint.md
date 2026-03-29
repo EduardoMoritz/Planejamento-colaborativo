@@ -14,6 +14,8 @@ EM: Função "Configurações"
 
 PA: Função "Anúncios"
 
+PA: Criação "Banco de Dados"
+
 ## 19/03
 
 EM: Criação aba "Minha conta"
