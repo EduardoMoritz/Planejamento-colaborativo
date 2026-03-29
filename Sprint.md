@@ -30,6 +30,8 @@ EM: Criação aba "Minha conta"
 
 EM: Função "Minha conta" 
 
+PA: Criação aba "Agenda"
+
 EM: Criação aba "Tarefas"
 
 EM: Função "Tarefas" 
