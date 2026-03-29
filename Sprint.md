@@ -47,3 +47,5 @@ EM: Design do interior do aplicativo
 PA: Criação aba "Atividades em conjunto"
 
 ## 20/03
+
+EM: Criação aba "Reuniões"
