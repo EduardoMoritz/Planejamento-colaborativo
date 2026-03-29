@@ -36,6 +36,8 @@ EM: Criação aba "Tarefas"
 
 EM: Função "Tarefas" 
 
+PA: Função "Agenda"
+
 EM: Função "Editar tarefas" 
 
 EM: Design do interior do aplicativo
