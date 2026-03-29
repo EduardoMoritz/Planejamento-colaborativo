@@ -63,3 +63,7 @@ PA: Design do ícone do aplicativo
 PA: Função "Compartilhar"
 
 PA: Função "Atividades em conjunto"
+
+PA: Criação aba "Central de ajuda"
+
+PA: Função "Central de ajuda"
