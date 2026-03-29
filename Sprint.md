@@ -18,6 +18,8 @@ PA: Criação "Banco de Dados"
 
 PA: Criação aba "Conta premium"
 
+PA: Função "Conta premium" 
+
 ## 19/03
 
 EM: Criação aba "Minha conta"
