@@ -37,6 +37,35 @@
 
 1. ~~Criação do Front atividade em conjunto~~
 
+## 20/03
+
+### Agenda
+
+1. ~~Função agenda finalmente pronto~~
+
+## 21/03
+
+### Compartilhar 
+
+1. ~~função compartilhar dados e atividades~~
+
+### Central de Ajuda
+
+1. ~~Criação Aba central de ajudas~~
+2. ~~Vincular números e emails com a aba central de ajuda~~
+
+### Atividade em conjunto
+
+1. ~~Função atividade em conjunto pra poder criar grupos~~
+
+## 22/03
+
+### Modelos
+
+1. ~~Pode criar modelos prontos e divulgar~~
+2. ~~Pode copiar os modelos prontos pra sua biblioteca e acessar eles~~
+
+
 
 
 
