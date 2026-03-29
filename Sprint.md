@@ -16,6 +16,8 @@ PA: Função "Anúncios"
 
 PA: Criação "Banco de Dados"
 
+PA: Criação aba "Conta premium"
+
 ## 19/03
 
 EM: Criação aba "Minha conta"
