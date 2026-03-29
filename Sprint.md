@@ -73,3 +73,7 @@ PA: Função "Central de ajuda"
 PA: Criação aba "Criar modelo"
 
 PA: Função "Criar modelo"
+
+## 23/03 
+
+EM & PA: Análise geral e atualização dos "Dev.md"
