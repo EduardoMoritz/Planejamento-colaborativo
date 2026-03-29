@@ -61,3 +61,5 @@ EM: Função "Notificações"
 PA: Design do ícone do aplicativo
 
 PA: Função "Compartilhar"
+
+PA: Função "Atividades em conjunto"
