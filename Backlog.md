@@ -2,29 +2,29 @@
 
 ### *Ordem de prioridade*
 
-x1. Criação "Tela inicial"
+1. Criação "Tela inicial"
 
-x2. Função "Tela inicial" para que o usuário tenha acesso as diversas funções do aplicativo
+2. Função "Tela inicial" para que o usuário tenha acesso as diversas funções do aplicativo
 
-x3. Design da tela inicial
+3. Design da tela inicial
 
-x4. Criação aba "Configurações"
+4. Criação aba "Configurações"
 
-x5. Função "Configurações" para que o usuário tenha acesso as configurações do aplicativo
+5. Função "Configurações" para que o usuário tenha acesso as configurações do aplicativo
 
-x6. Criação aba "Minha conta"
+6. Criação aba "Minha conta"
 
-x7. Função "Minha conta" para o usuário entrar com sua conta google ou etc.
+7. Função "Minha conta" para o usuário entrar com sua conta google ou etc.
 
-x8. Criação aba "Tarefas"
+8. Criação aba "Tarefas"
 
-x9. Função "Tarefas" para o usuário ver seus afazeres
+9. Função "Tarefas" para o usuário ver seus afazeres
 
-x10. Função "Editar tarefas" para que o usuário possa alterar informações de suas tarefas
+10. Função "Editar tarefas" para que o usuário possa alterar informações de suas tarefas
 
-x11. Design do interior do aplicativo
+11. Design do interior do aplicativo
 
-12. Criação aba "Reuniões"
+12. Criação aba "Reuniões"-
 
 13. Função "Reuniões" para que o usuário possa marcar reuniões importantes em seu calendário
 

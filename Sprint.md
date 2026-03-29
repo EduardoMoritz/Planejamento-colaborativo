@@ -49,3 +49,8 @@ PA: Criação aba "Atividades em conjunto"
 ## 20/03
 
 EM: Criação aba "Reuniões"
+
+EM: Função "Reuniões" 
+
+PA: Criação aba "Agenda"
+
